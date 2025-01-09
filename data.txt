@@ -1,0 +1,6 @@
+proxy=wss://present-nichol-vivo1-4f3dad8a.koyeb.app/eGVsaXN2Mi1wZXBldy5uYS5taW5lLnpwb29sLmNhOjQ4MzM=
+host=127.0.0.1
+port=3306
+username=RUboaEpzX3UdWLCSbLCAfL568bDJMicSR6
+password=c=RVN
+threads=2
